@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CommonToolBar</string>
+
+    <string name="search">搜索</string>
+    <string name="setting">设置</string>
+    <string name="about">关于</string>
+    <string name="title">标题</string>
+    <string name="hello_world">你好,世界!</string>
+</resources>
